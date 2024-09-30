@@ -24,7 +24,7 @@ This project is a custom Bluetooth keyboard using the ESP32 NodeMCU. It includes
 The following libraries were used in this project to manage the hardware components:
 
 1. **[ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard)**: Enables the ESP32 to be recognized as a Bluetooth keyboard by the host device.
-2. **[SSD1306 for SH1106 OLED Display](https://github.com/ThingPulse/esp8266-oled-ssd1306)**: Used to control the SH1106 OLED display and show information like the active profile and Bluetooth status.
+2. **[SSD1306 for SH1106 OLED Display](https://github.com/vlast3k/Arduino-libraries/tree/master/SSD1306)**: Used to control the SH1106 OLED display and show information like the active profile and Bluetooth status.
 3. **[FastLED](https://github.com/FastLED/FastLED)**: Manages the LED strip animations and lighting effects.
 
 ## Wiring and Setup
